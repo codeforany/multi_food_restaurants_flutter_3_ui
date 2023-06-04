@@ -2,7 +2,7 @@
 
 # codeforany @codeforany
 
-- [Youtube Full Playlist: Multi Food Restaurants App UI UX Design PSD & Sketch Convent Into Flutter Code | Flutter 3](https://www.youtube.com/playlist?list=PLzcRC7PA0xWR1AY-uvplpAYoDFzRdUHgQ)
+- [Youtube Full Playlist: Multi Food Restaurants App UI UX Design PSD & Sketch Convent Into Flutter Code | Flutter 3](https://www.youtube.com/playlist?list=PLzcRC7PA0xWTacE7f0rxm1hyOgJe8DW5l)
 - [Youtube Channel: @codeforany](https://www.youtube.com/channel/UCdQTp9wRK5vAOlEQZf9PHSg)
 - [Youtube Channel Subscribe: @codeforany](https://www.youtube.com/channel/UCdQTp9wRK5vAOlEQZf9PHSg?sub_confirmation=1)
 
